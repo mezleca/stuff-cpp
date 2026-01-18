@@ -1,6 +1,6 @@
-#include <iostream>
+#include "wm.hpp"
 
 int main() {
-    std::cout << "Hello, World!\n";
+    wm::run();
     return 0;
 }
